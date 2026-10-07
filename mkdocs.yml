@@ -25,6 +25,7 @@ nav:
     - Compilation process: digital/compilation.md
     - Simulation: digital/simulator_device/
     - Interoperability with Cirq: digital/cirq_interop/
+    - Interoperability with jeff: digital/jeff_interop/
   - Digital Tutorials:
     - digital/examples/index.md
     - Tutorials:
